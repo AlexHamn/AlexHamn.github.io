@@ -1,7 +1,7 @@
 # Data Scientist
 Business &amp; Data Science portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, javaScript, HTML, CSS, Ruby, Ruby on Rails, React, AWS, Snowflake, MATLAB
 
 ## Education
 - BsC, Business & Data Science | University of Europe for Applied Sciences (_June 2025_)
